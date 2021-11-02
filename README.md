@@ -1,8 +1,8 @@
 # Project 1: [Customer Churn Analysis](https://github.com/waldysetio/customer-churn-analysis)
 
 
-### 1. **Business Problem Understanding**<br />
-There has been a significant customer churn in an energy company that provides corporates with gas and electricity utility particularly in its SME (Small and Medium Entreprise) segment due to new power liberalization of the energy market. The company wants to know whether it's possible to predict customers likely to churn using predictive model and what factors that drive the churn. <br />
+### 1. **Understanding Business Problem**<br />
+There has been a significant customer churn in an energy company that provides corporates with gas and electricity utility particularly in its SME (Small and Medium Entreprise) segment due to new power liberalization of the energy market. The company wants to know whether it's possible to predict customers likely to churn using predictive model and what factors that drive the churn in order for them to anticipate potential future churn and mantain customer retention. <br />
 
 
 ### 2. **Getting the Data**<br />
