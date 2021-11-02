@@ -4,6 +4,7 @@
 - Historical customer data: Customer data such as usage, sign up date, forecasted usage, etc.
 - Historical pricing data: variable and fixed pricing data, etc.
 - Churn indicator: whether each customer has churned or not.  
+
 Data source: Boston Consulting Group (BCG Gamma).
 
 # Project 2: [Credit Risk Prediction](https://github.com/waldysetio/credit-risk)
