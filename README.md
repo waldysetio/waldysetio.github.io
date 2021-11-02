@@ -1,5 +1,5 @@
 # Project 1: [Customer Churn Analysis](https://github.com/waldysetio/customer-churn-analysis)
-Problem: There has been a significant customer churn in an energy company particularly in the SME segment due to new regulation related to energy.
+Problem: There has been a significant customer churn in an energy company that provides corporates with gas and electricity utility particularly in its SME (Small and Medium Entreprise) segment due to new power liberalization of the energy market. The company wants to know whether it's possible to predict customers likely to churn using predictive model and what factors that drive them to do so. 
 
 # Project 2: [Credit Risk Prediction](https://github.com/waldysetio/credit-risk)
 
