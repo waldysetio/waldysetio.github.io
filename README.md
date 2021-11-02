@@ -28,6 +28,8 @@ The data used in this project is from Boston Consulting Group (BCG Gamma). There
 
 
 ### 4. **Feature Engineering**<br />
+New features are created using the existing features in order to fit better in modelling. For example, in this project a feature called "tenure" was created by substracting "sign up date" from "end date" because churning rate might not related to any specific date when customers signed up for a service but it could be related to the length of customers in using a service.
+
 
 
 
