@@ -1,2 +1,4 @@
-theme: jekyll-theme-slate
 title: Waldy Portfolio 
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-slate
