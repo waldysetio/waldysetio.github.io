@@ -5,7 +5,7 @@ There has been a significant customer churn in an energy company that provides c
 The data used in this project is from Boston Consulting Group (BCG Gamma). There are three data sets that are provided which consist of:
 - Historical customer data: Customer data such as usage, sign up date, forecasted usage, etc.
 - Historical pricing data: variable and fixed pricing data, etc.
-- Churn indicator: whether each customer has churned or not.
+- Churn indicator: whether each customer has churned or not.  
 ### 3. **Exploratory Data Analysis and Data Cleaning**
 - Loading and Merging Data
 - Descriptive Statistical Analysis
@@ -18,7 +18,7 @@ The data used in this project is from Boston Consulting Group (BCG Gamma). There
 - Data Formatting
   - Subtituting missing data with median
   - Formatting dates
-  - Replacing negative data with median
+  - Replacing negative data with median  
 ### 4. **Feature Engineering**
 
 # Project 2: [Credit Risk Prediction](https://github.com/waldysetio/credit-risk)
