@@ -12,7 +12,7 @@ The data used in this project is from Boston Consulting Group (BCG Gamma). There
 - Churn indicator: whether each customer has churned or not. <br />
 
 
-### 3. **Exploratory Data Analysis and Data Cleaning**<br />
+### 3. **[Exploratory Data Analysis and Data Cleaning](https://nbviewer.org/github/waldysetio/customer-churn-analysis/blob/main/exploratory-data-analysis-and-data-cleaning.ipynb)**<br />
 - Loading and Merging Data
 - Descriptive Statistical Analysis
   - Data types
@@ -27,7 +27,7 @@ The data used in this project is from Boston Consulting Group (BCG Gamma). There
   - Replacing negative data with median <br />
 
 
-### 4. **Feature Engineering**<br />
+### 4. **[Feature Engineering](https://nbviewer.org/github/waldysetio/customer-churn-analysis/blob/main/feature-engineering.ipynb)**<br />
 New features have been created using the existing features in order to fit better in modelling. For example, in this project a feature called "tenure" was created by substracting "sign up date" from "end date" because churning rate might not be related to any specific date when customers signed up for a service but it could be related to customers' time span in using a service. 
 - Creating new features using existing features
 - Creating dummy variables/one-hot encoding for categorical data
@@ -36,6 +36,8 @@ New features have been created using the existing features in order to fit bette
 - Plotting new features correlation
 - Removing outliers
 
+
+### 5. **[Modeling and Evaluation](https://nbviewer.org/github/waldysetio/customer-churn-analysis/blob/main/modeling_and_evaluation.ipynb)**<br />
 
 
 # Project 2: [Credit Risk Prediction](https://github.com/waldysetio/credit-risk)
