@@ -40,5 +40,5 @@ New features have been created using the existing features in order to fit bette
 ### 5. **[Modeling and Evaluation](https://nbviewer.org/github/waldysetio/customer-churn-analysis/blob/main/modeling_and_evaluation.ipynb)**<br />
 
 
-# Project 2: [Credit Risk Prediction](https://github.com/waldysetio/credit-risk)
+# Project 2: [Credit Risk Prediction](https://nbviewer.org/github/waldysetio/credit-risk/blob/main/credit_risk_prediction.ipynb)
 
