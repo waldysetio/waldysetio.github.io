@@ -42,4 +42,4 @@ New features have been created using the existing features in order to fit bette
 
 # Project 2: [Credit Risk Prediction](https://nbviewer.org/github/waldysetio/credit-risk/blob/main/credit_risk_prediction.ipynb)
 
-# Project 3: [Credit Risk Prediction](https://nbviewer.org/github/waldysetio/price-estimation/blob/main/price-estimation.ipynb)
+# Project 3: [Property Rental Price Estimation](https://nbviewer.org/github/waldysetio/price-estimation/blob/main/price-estimation.ipynb)
