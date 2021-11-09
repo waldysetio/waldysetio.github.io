@@ -1,3 +1,7 @@
+[Linkedin](https://www.linkedin.com/in/waldysetiono/) [Github](https://github.com/waldysetio)<br />
+<br />
+
+
 # Project 1: [Customer Churn Analysis](https://github.com/waldysetio/customer-churn-analysis)
 
 
