@@ -1,4 +1,4 @@
-[Linkedin Profile ](https://www.linkedin.com/in/waldysetiono/) | [ Github Repository](https://github.com/waldysetio)<br />
+### **[Linkedin Profile ](https://www.linkedin.com/in/waldysetiono/) | [ Github Repository](https://github.com/waldysetio)**<br />
 <br />
 
 
